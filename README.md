@@ -10,13 +10,16 @@ It is still under-development
 ### Steps
 
 1. Data collection - Done
-2. Data clearning - Done
-3. Creating a high quality Instruction-style dataset - In Progress
-4. Quantization of the model
-5. Fine-tuning
+2. Data extraction - Done
+3. Data cleaning - Done
+4. Creating a high quality Instruction-style dataset - In Progress
+5. Quantization of the model
+6. Fine-tuning
 
 ### Tech Specifications
 
 Base model: Mistral 7b
 
 Finetuning technique: LORA + PEFT
+
+Dataset: Sanghara(Bhasini)
