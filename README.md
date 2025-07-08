@@ -9,9 +9,9 @@ It is still under-development
 
 ### Steps
 
-1. Data collection
-2. Data clearning
-3. Creating a high quality Instruction-style dataset
+1. Data collection - Done
+2. Data clearning - Done
+3. Creating a high quality Instruction-style dataset - In Progress
 4. Quantization of the model
 5. Fine-tuning
 
