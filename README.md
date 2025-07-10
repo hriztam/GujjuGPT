@@ -13,8 +13,10 @@ It is still under-development
 2. Data extraction - Done
 3. Data cleaning - Done
 4. Creating a high quality Instruction-style dataset - In Progress
-5. Quantization of the model
-6. Fine-tuning
+5. i. Fine-tuned llama 1b on 500 Q/A - Done
+   ii. Generating more questions - In progress
+6. Quantization of the model
+7. Fine-tuning
 
 ### Tech Specifications
 
