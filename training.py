@@ -26,7 +26,7 @@ tokenizer = AutoTokenizer.from_pretrained(model_path)
 
 
 # Load the dataset
-final_dataset = "./dataset/processed_data/qna_generation.json"
+final_dataset = "./backup/groq/groq_backup.jsonl"
 dataset = load_dataset("json", data_files=final_dataset, split="train")
 
 #  Format the dataset for instruction-style prompts
